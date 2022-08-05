@@ -1,0 +1,22 @@
+Grupo 1 - Trasbalho de Infraestrutura e Serviços de Redes - 2°Bimestre
+
+Membros:
+  * Guilherme Henrique de Souza Teles;
+  * Iris Soares Fernandes;
+  * Layssa Dandara da Silva Duarte;
+  * Pollyana Crys Oliveira da Silva;
+  
+
+-------------------------------------------------------------------------------------------------------------------------
+|   DESCRIÇÃO   |   IP                    |   hostname        |     FQDN                              |   aliase        |
+-------------------------------------------------------------------------------------------------------------------------
+| VM1-PC1       | 192.168.23.[0-15]/28    | grupo1-vm1-pc1    | mage.grupo1-923.ifalara.net           | vpn             |
+| VM2-PC1       | 192.168.23.[0-15]/28    | grupo1-vm2-pc1    | mage.grupo1-923.ifalara.net           | vpn             |
+| VM3-PC2       | 192.168.23.[0-15]/28    | grupo1-vm3-pc2    | ddd.grupo1-923.ifalara.net            | vpn             |
+| VM4-PC2       | 192.168.23.[0-15]/28    | grupo1-vm4-pc2    | ddd.grupo1-923.ifalara.net            | vpn             |
+| VM5-PC3       | 192.168.23.[0-15]/28    | grupo1-vm5-pc3    | pollypolly.grupo1-923.ifalara.net     | vpn             |
+| VM6-PC3       | 192.168.23.[0-15]/28    | grupo1-vm6-pc3    | pollypolly.grupo1-923.ifalara.net     | vpn             |
+| VM7-PC4       | 192.168.23.[0-15]/28    | grupo1-vm7-pc4    | irisfernandes.grupo1-923.ifalara.net  | vpn             |
+| VM8-PC4       | 192.168.23.[0-15]/28    | grupo1-vm8-pc4    | irisfernandes.grupo1-923.ifalara.net  | vpn             |
+-------------------------------------------------------------------------------------------------------------------------
+
