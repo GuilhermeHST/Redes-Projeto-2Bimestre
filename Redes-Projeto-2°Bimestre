@@ -7,16 +7,16 @@ Membros:
   * Pollyana Crys Oliveira da Silva;
   
 
--------------------------------------------------------------------------------------------------------------------------
-|   DESCRIÇÃO   |   IP                    |   hostname        |     FQDN                              |   aliase        |
--------------------------------------------------------------------------------------------------------------------------
-| VM1-PC1       | 192.168.23.[0-15]/28    | grupo1-vm1-pc1    | mage.grupo1-923.ifalara.net           | vpn             |
-| VM2-PC1       | 192.168.23.[0-15]/28    | grupo1-vm2-pc1    | mage.grupo1-923.ifalara.net           | vpn             |
-| VM3-PC2       | 192.168.23.[0-15]/28    | grupo1-vm3-pc2    | ddd.grupo1-923.ifalara.net            | vpn             |
-| VM4-PC2       | 192.168.23.[0-15]/28    | grupo1-vm4-pc2    | ddd.grupo1-923.ifalara.net            | vpn             |
-| VM5-PC3       | 192.168.23.[0-15]/28    | grupo1-vm5-pc3    | pollypolly.grupo1-923.ifalara.net     | vpn             |
-| VM6-PC3       | 192.168.23.[0-15]/28    | grupo1-vm6-pc3    | pollypolly.grupo1-923.ifalara.net     | vpn             |
-| VM7-PC4       | 192.168.23.[0-15]/28    | grupo1-vm7-pc4    | irisfernandes.grupo1-923.ifalara.net  | vpn             |
-| VM8-PC4       | 192.168.23.[0-15]/28    | grupo1-vm8-pc4    | irisfernandes.grupo1-923.ifalara.net  | vpn             |
--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+|   DESCRIÇÃO   |   IP               |   hostname        |     FQDN                              |   aliase        |
+--------------------------------------------------------------------------------------------------------------------
+| VM1-PC1       | 192.168.23.2/28    | grupo1-vm1-pc1    | mage.grupo1-923.ifalara.net           | mona            |
+| VM2-PC1       | 192.168.23.9/28    | grupo1-vm2-pc1    | mage.grupo1-923.ifalara.net           | mona            |
+| VM3-PC2       | 192.168.23.3/28    | grupo1-vm3-pc2    | ddd.grupo1-923.ifalara.net            | ddd             |
+| VM4-PC2       | 192.168.23.4/28    | grupo1-vm4-pc2    | ddd.grupo1-923.ifalara.net            | ddd             |
+| VM5-PC3       | 192.168.23.5/28    | grupo1-vm5-pc3    | pollypolly.grupo1-923.ifalara.net     | pocket          |
+| VM6-PC3       | 192.168.23.6/28    | grupo1-vm6-pc3    | pollypolly.grupo1-923.ifalara.net     | pocket          |
+| VM7-PC4       | 192.168.23.7/28    | grupo1-vm7-pc4    | irisfernandes.grupo1-923.ifalara.net  | olhos           |
+| VM8-PC4       | 192.168.23.8/28    | grupo1-vm8-pc4    | irisfernandes.grupo1-923.ifalara.net  | olhos           |
+--------------------------------------------------------------------------------------------------------------------
 
